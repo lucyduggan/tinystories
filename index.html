@@ -5,11 +5,17 @@
     <div id="story"></div>
     <script>
       var story = document.getElementById( "story" );
+
       function loadStory( storyName ) {
-        var storyMarkdown = "test\n====\n\nhi";
-        story.innerHTML = markdown.toHTML( storyMarkdown );
+        var req = new XMLHttpRequest();
+        req.onload = function() {
+          story.innerHTML = markdown.toHTML( this.responseText );
+        };
+        req.open( "GET", storyName, true);
+        req.send();
       }
-      loadStory( "love/test" );
+
+      loadStory( "love/sample" );
     </script>
   </body>
 </html>
