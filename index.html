@@ -16,6 +16,7 @@
         var req = new XMLHttpRequest();
         req.onload = function() {
           stories = JSON.parse( this.responseText );
+          loadRandomStory();
         };
         req.open( "GET", "stories.json", true );
         req.send();
