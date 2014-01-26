@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <script src="lib/markdown.js"></script>
+    <div id="story"></div>
+    <script>
+      var story = document.getElementById( "story" );
+      function loadStory( storyName ) {
+        var storyMarkdown = "test\n====\n\nhi";
+        story.innerHTML = markdown.toHTML( storyMarkdown );
+      }
+      loadStory( "love/test" );
+    </script>
+  </body>
+</html>
