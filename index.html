@@ -1,33 +1,49 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <script src="lib/markdown.js"></script>
     <div id="story"></div>
     <button id="another">Another</button>
     <button id="switch">Switch</button>
+    <script src="lib/markdown.js"></script>
     <script>
       var story = document.getElementById( "story" );
+      var stories = {};
       var anotherButton = document.getElementById( "another" );
       var switchButton = document.getElementById( "switch" );
       var type = "love";
+
+      function loadStoryList() {
+        var req = new XMLHttpRequest();
+        req.onload = function() {
+          stories = JSON.parse( this.responseText );
+        };
+        req.open( "GET", "stories.json", true );
+        req.send();
+      };
+      loadStoryList();
 
       function loadStory( storyName ) {
         var req = new XMLHttpRequest();
         req.onload = function() {
           story.innerHTML = markdown.toHTML( this.responseText );
         };
-        req.open( "GET", storyName, true);
+        req.open( "GET", storyName, true );
         req.send();
-      }
+      };
+
+      function loadRandomStory() {
+        var storyName = stories[type][Math.floor( Math.random() * stories[type].length )];
+        loadStory( type + "/" + storyName );
+      };
 
       anotherButton.addEventListener( "click", function() {
-        loadStory( "love/sample" );
+        loadRandomStory();
       } );
         
       switchButton.addEventListener( "click", function() {
-        loadStory( "notlove/sample" );
+        type = ( type === "love" ? "notlove" : "love" );
+        loadRandomStory();
       } );
-        
     </script>
   </body>
 </html>
