@@ -3,8 +3,13 @@
   <body>
     <script src="lib/markdown.js"></script>
     <div id="story"></div>
+    <button id="another">Another</button>
+    <button id="switch">Switch</button>
     <script>
       var story = document.getElementById( "story" );
+      var anotherButton = document.getElementById( "another" );
+      var switchButton = document.getElementById( "switch" );
+      var type = "love";
 
       function loadStory( storyName ) {
         var req = new XMLHttpRequest();
@@ -15,7 +20,14 @@
         req.send();
       }
 
-      loadStory( "love/sample" );
+      anotherButton.addEventListener( "click", function() {
+        loadStory( "love/sample" );
+      } );
+        
+      switchButton.addEventListener( "click", function() {
+        loadStory( "notlove/sample" );
+      } );
+        
     </script>
   </body>
 </html>
