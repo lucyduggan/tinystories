@@ -1,8 +1,1 @@
-{
-  "love": [
-    "sample"
-  ],
-  "notlove": [
-    "sample"
-  ]
-}
+{"notlove": [".DS_Store", "afterschool.md", "doomedromantic.md", "gameover.md", "legacy.md", "lobsterat.md", "messagein.md", "passing.md", "pretences.md", "sample", "thedr.md", "theman.md", "uncannyvalley.md", "updatesfrom.md", "youandyour.md"], "love": ["finebreakfast.md", "freedomdiet.md", "penaltygoal.md", "sample", "signingoff.md", "sorryfor.md", "survivalkit.md", "whocould.md"]}
