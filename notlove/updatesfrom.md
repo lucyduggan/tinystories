@@ -1,0 +1,5 @@
+Updates from a disappointed world==================================
+
+
+
+She didn’t read the newspapers, but she always had a sad story to tell me: a pensioner had tried to bake a Christmas cake and burned it ‘to a crisp’, a little girl had been frightened by a seagull just as she was tucking into an ice cream, someone with the username Clouds53 had listened to a radio soap in the hope of finding some distraction from a painful break-up, but had been unable to concentrate on that week’s ‘laughable storyline’. She trawled the special interest forums, the comments on videos, and the personal websites which never usually got any views; she was always on the look-out for an unfortunate detail or a tragic ending. I suggested that she could do something with all these stories – turn them into a play, or at least a blog. But she just looked at me, as if this idea were disrespectful to the suffering of the people involved.

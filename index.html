@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<<<<<<< HEAD
 
   <head>
     <meta charset='utf-8' />
@@ -75,5 +76,59 @@ $ git checkout gh-pages
 
     
 
+=======
+  <head>
+    <title>Tiny stories</title>
+    <link href='http://fonts.googleapis.com/css?family=Gabriela' rel='stylesheet' type='text/css'>
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+  <body>
+    <div id="story"></div>
+    <hr>
+    <a href=# id="another">Another</a>
+    <a href=# id="switch">Switch</a>
+    <script src="lib/markdown.js"></script>
+    <script>
+      var story = document.getElementById( "story" );
+      var stories = {};
+      var anotherButton = document.getElementById( "another" );
+      var switchButton = document.getElementById( "switch" );
+      var type = "love";
+
+      function loadStoryList() {
+        var req = new XMLHttpRequest();
+        req.onload = function() {
+          stories = JSON.parse( this.responseText );
+          loadRandomStory();
+        };
+        req.open( "GET", "stories.json", true );
+        req.send();
+      };
+      loadStoryList();
+
+      function loadStory( storyName ) {
+        var req = new XMLHttpRequest();
+        req.onload = function() {
+          story.innerHTML = markdown.toHTML( this.responseText );
+        };
+        req.open( "GET", storyName, true );
+        req.send();
+      };
+
+      function loadRandomStory() {
+        var storyName = stories[type][Math.floor( Math.random() * stories[type].length )];
+        loadStory( type + "/" + storyName );
+      };
+
+      anotherButton.addEventListener( "click", function() {
+        loadRandomStory();
+      } );
+        
+      switchButton.addEventListener( "click", function() {
+        type = ( type === "love" ? "notlove" : "love" );
+        loadRandomStory();
+      } );
+    </script>
+>>>>>>> master
   </body>
 </html>
