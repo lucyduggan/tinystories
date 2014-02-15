@@ -1,0 +1,5 @@
+The Dr. B. Hoover Prize for the Aloof and Unimpressive======================================================
+
+
+
+He bequeathed his money to the famous boarding school he had attended, on the condition that it was invested solely in a prize for the pupil who most loathed rugby, detested choir practice and abhorred school plays, whilst attending as few lessons as possible and writing the most passionate poetry in praise of idleness and sloth. ‘Aloof and unimpressive’ was a direct quote from his school report in the Lower Fifth, and indeed, he had remained aloof and unimpressive all his life: his doctorate came from a sham university somewhere in the south of the United States, and his enormous wealth was the result of his famous and much missed brother’s early death. Still, that didn’t stop him taking revenge on the school which had summed up his character with such precision.
