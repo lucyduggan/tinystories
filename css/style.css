@@ -24,3 +24,11 @@ p {
   margin: 0 0 12px 0;
 }
 
+hr {
+  margin: 30px 100px;
+}
+
+a {
+  color: black;
+  margin: 20px;
+}
