@@ -1,14 +1,14 @@
 /* base styles */
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Gabriela", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 24px;
   line-height: 1.2;
-  color: #fed;
-  text-shadow: black 5px 5px;
+  color: #41640B;
   text-align: center;
   background: #113;
-  background: linear-gradient(45deg, #113, #101);
+  background-image: url("img/crossword.png");
+  height: 100%;
 }
 
 body {
@@ -17,9 +17,10 @@ body {
 
 h1 {
   font-size: 70px;
+  text-shadow: grey 5px 0 25px;
 }
 
 p {
-  margin: 0 0 10px 0;
+  margin: 0 0 12px 0;
 }
 
