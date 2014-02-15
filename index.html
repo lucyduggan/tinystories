@@ -8,15 +8,37 @@
   <body>
     <div id="story"></div>
     <hr>
-    <a href=# id="another">Another</a>
-    <a href=# id="switch">Switch</a>
+    <a href=# id="love-another">Another Love Story</a>
+    <a href=# id="love-switch">I don't want a Love Story</a>
+    <a href=# id="notlove-another">Another Story</a>
+    <a href=# id="notlove-switch">I want a Love Story</a>
     <script src="lib/markdown.js"></script>
     <script>
       var story = document.getElementById( "story" );
       var stories = {};
-      var anotherButton = document.getElementById( "another" );
-      var switchButton = document.getElementById( "switch" );
+      var loveAnotherButton = document.getElementById( "love-another" );
+      var loveSwitchButton = document.getElementById( "love-switch" );
+      var notloveAnotherButton = document.getElementById( "notlove-another" );
+      var notloveSwitchButton = document.getElementById( "notlove-switch" );
+
       var type = "love";
+      function setType( t ) {
+        if ( t === "love" ) {
+          type = "love";
+          loveAnotherButton.style.display = "block";
+          loveSwitchButton.style.display = "block";
+          notloveAnotherButton.style.display = "none";
+          notloveSwitchButton.style.display = "none";
+        } else if ( t === "notlove" ) {
+          type = "notlove";
+          loveAnotherButton.style.display = "none";
+          loveSwitchButton.style.display = "none";
+          notloveAnotherButton.style.display = "block";
+          notloveSwitchButton.style.display = "block";
+        }
+      };
+
+      setType( "love" );
 
       function loadStoryList() {
         var req = new XMLHttpRequest();
@@ -43,12 +65,21 @@
         loadStory( type + "/" + storyName );
       };
 
-      anotherButton.addEventListener( "click", function() {
+      loveAnotherButton.addEventListener( "click", function() {
         loadRandomStory();
       } );
-        
-      switchButton.addEventListener( "click", function() {
-        type = ( type === "love" ? "notlove" : "love" );
+
+      notloveAnotherButton.addEventListener( "click", function() {
+        loadRandomStory();
+      } );
+
+      loveSwitchButton.addEventListener( "click", function() {
+        setType( "notlove" );
+        loadRandomStory();
+      } );
+
+      notloveSwitchButton.addEventListener( "click", function() {
+        setType( "love" );
         loadRandomStory();
       } );
     </script>
