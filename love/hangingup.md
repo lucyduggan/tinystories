@@ -1,0 +1,2 @@
+Hanging up like a cloak in the wardrobe
+=======================================She dreamt of finding a new skin: when she looked in the mirror, she would see a pale, freckled face and light hairs on the backs of her arms, and the places where Ash had touched her would be gone.

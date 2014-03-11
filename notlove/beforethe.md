@@ -1,0 +1,2 @@
+Before the divorce
+==================She did not expect to see her father walking out of the Mexican cocktail bar with Mis Hedge, her beautiful English teacher, a woman with long, beringed fingers, who had often been the subject of her fantasies.

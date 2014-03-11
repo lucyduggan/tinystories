@@ -1,0 +1,2 @@
+(0)
+===He was an efficient guy, particularly proud of ‘maintaining zero inbox’, as he always said. So Laylan’s email posed a problem: he put off answering it, because he did not know how to respond to Laylan’s bursts of nostalgia, vague threats to visit and grandiloquent descriptions of strange, celebratory drives along the coast, in which Laylan indulged during bouts of insomnia. All of this posed a problem, and the email hovered, unanswered, undeleted, unsolved, denying him the definite ‘zero’ which used to glint at him so satisfyingly each day.

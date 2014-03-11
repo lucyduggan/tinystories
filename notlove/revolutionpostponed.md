@@ -1,0 +1,2 @@
+Revolution: postponed indefinitely
+==================================I always said that I’d wear purple, once I was old. But I waited too long, and died wearing a black skirt suit and an itchy pale yellow blouse.

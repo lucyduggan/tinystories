@@ -1,0 +1,2 @@
+In memory
+=========After he died, she left the painting unfinished for a very long time, and everyone thought they understood: it was because the painting was a portrait of him, a homage to his prolific work. But in fact, the painting had been meant as a rejection of all that he stood for, a portrait of his failings – and now that he could not reply, shout her piffling work into the ground, as he used to, she could not finish it.

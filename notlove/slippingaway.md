@@ -1,0 +1,2 @@
+Slipping away
+=============In his youth, he designed a memorial to everything that had been forgotten: a white marble bowl, tipped up towards the sky, resting on a black granite mound. When he retired and had time for his stonework, several cities became interested in the design, and wanted him to build it in the centre of one of their squares. But instead, he sat in his garden, looking up at the white moon in the black sky and listening to the cicadas.

@@ -1,0 +1,2 @@
+Just calling to say goodnight
+=============================She had hated the idea of a long distance relationship, but when she heard his voice on the crackly phone line, grumbling about his tax forms and failing to ask about her day, she found herself slipping into a gentle trance, and she realised that these phone calls might be the cure for the insomnia that had plagued her for years.
