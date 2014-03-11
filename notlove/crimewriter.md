@@ -1,0 +1,2 @@
+Blind date with a crime writer
+==============================He gradually realised that everything she did had to have a twist: after claiming to love anchovies, she left them on the side of her plate, having told him six anecdotes about her cat, she hinted that the cat had died several years ago, and despite having eyed him with only the mildest interest throughout the meal, she grabbed hold of him outside the restaurant and ordered him to take her to a seedy hotel room.

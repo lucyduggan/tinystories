@@ -1,0 +1,2 @@
+After twenty years of marriage, two revelations
+===============================================She did not expect him to be so accepting when she finally told him that she wanted to spend her Wednesday nights taking wrestling classes along with a couple of friends - but it turned out that he was pleased to have a free evening for his crochet club.

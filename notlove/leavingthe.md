@@ -1,0 +1,2 @@
+Leaving the loud house
+======================The pipes bubbled with indigestion and the stairs creaked as if they were about to buckle; each door had its own shrill complaint, and the windows, once opened, always slammed closed at some point, with a crash. At last, she had to move somewhere quieter. But in the new house, she lay awake, listening to the uncomfortable house, and when she finally slept, her dreams were an orchestra of creaking and bubbling.

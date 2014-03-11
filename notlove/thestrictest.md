@@ -1,0 +1,2 @@
+The strictest teacher
+=====================She met Miss McMillan again, years later, and all the sharpness had gone out of her: she was sitting in the corner of Vera’s Café, pouring tea into her cup from a metal pot and not noticing when it dripped onto the pages of her library book.

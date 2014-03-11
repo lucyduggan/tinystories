@@ -1,0 +1,2 @@
+Blind date with a self-professed animal lover
+=============================================She was no longer sure why she had brought along Ned, her pet raccoon: the conversation was becoming horribly stilted, and her date looked oddly anxious to analyse the weave of the white napkins, despite the fact that Ned seemed so happy and so sweetly intent on making friends.

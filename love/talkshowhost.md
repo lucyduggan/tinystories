@@ -1,0 +1,2 @@
+Blind date with a talk show host
+================================I have never talked as much as I did that night: he asked me about my views on a series of controversial topics, as well as grilling me on my secret obsessions, my weird relationships and my scandalous past. It was a relief to talk like that. But in the three years we spent together afterwards he was increasingly silent – either because he saw talking as a work thing, or because he was more and more unnerved by what I’d told him about my mother, my plastic surgery and my fling with a sumo wrestler.

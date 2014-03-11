@@ -1,0 +1,2 @@
+Peacefully in her sleep
+=======================She did not realise how incomplete a life could be: Sam left a desk covered in the first lines of poems, a fridge full of half-finished jams, a piano which she had not quite tuned, a tax return with just her national insurance number in the box, and a baby girl whom they had not got round to naming.

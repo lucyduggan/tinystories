@@ -1,0 +1,2 @@
+The slow-motion emigrant
+========================She was disappointed to find that the fastest way to leave her homeland behind was an unromantic bus, which went direct to Germany. So instead, she took a chain of trains, waiting at tiny stations, staying the night on the border, until it felt like she was really leaving.

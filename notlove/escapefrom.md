@@ -1,0 +1,2 @@
+Escape from the cuckoo clock
+============================The tiny wooden cuckoo which used to jump softly and suddenly forward and sing out two notes from its miniature beak – it was gone. The family suspected thieves, but nothing else was missing. In fact, the cuckoo had flown away one day, seeking the secret of its own truncated song, and finding only giant, feathered birds and the roar of traffic.
