@@ -6,8 +6,8 @@ DIR=os.path.dirname(os.path.realpath(__file__))
 
 def standalone():
     os.chdir(DIR)
-    stories = { "love": [f for f in os.listdir("love") if not f.startswith('.')],
-                "notlove": [f for f in os.listdir("notlove") if not f.startswith('.')] }
+    stories = { "love": [os.path.splitext(f)[0] for f in os.listdir("love") if not f.startswith('.')],
+                "notlove": [os.path.splitext(f)[0] for f in os.listdir("notlove") if not f.startswith('.')] }
     with open("stories.json", "w") as f:
         print "Writing stories.json...\n"
         print stories
