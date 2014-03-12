@@ -77,18 +77,18 @@
       };
       loadStoryList();
 
-      function loadStory( storyName ) {
+      function loadStory( type, storyName ) {
         var req = new XMLHttpRequest();
         req.onload = function() {
           story.innerHTML = markdown.toHTML( this.responseText );
         };
-        req.open( "GET", storyName, true );
+        req.open( "GET", type + "/" + storyName, true );
         req.send();
       };
 
       function loadRandomStory() {
         var storyName = stories[type][Math.floor( Math.random() * stories[type].length )];
-        loadStory( type + "/" + storyName );
+        loadStory( type, storyName );
       };
 
       loveAnotherButton.addEventListener( "click", function() {
