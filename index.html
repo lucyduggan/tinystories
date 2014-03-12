@@ -39,7 +39,6 @@
         return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
       }
 
-      console.log( getParameter( "story" ) );
       var story = document.getElementById( "story" );
       var stories = {};
       var loveAnotherButton = document.getElementById( "love-another" );
@@ -64,25 +63,38 @@
         }
       };
 
+      // Parse URL to try and load correct story
+      var requestedType = getParameter( "type" );
+      var requestedStory = getParameter( "story" );
+
       setType( "love" );
 
       function loadStoryList() {
         var req = new XMLHttpRequest();
         req.onload = function() {
           stories = JSON.parse( this.responseText );
-          loadRandomStory();
+          if ( ["love", "notlove"].indexOf( requestedType ) !== -1 &&
+               stories[requestedType].indexOf( requestedStory ) !== -1 ) {
+            // Story requested is valid, load it
+            loadStory( requestedType, requestedStory );
+          } else {
+            // Otherwise, fall back to random story
+            loadRandomStory();
+          }
         };
         req.open( "GET", "stories.json", true );
         req.send();
       };
+
       loadStoryList();
 
       function loadStory( type, storyName ) {
         var req = new XMLHttpRequest();
         req.onload = function() {
           story.innerHTML = markdown.toHTML( this.responseText );
+          window.history.pushState( undefined, undefined, "/?type=" + type + "&story=" + storyName );
         };
-        req.open( "GET", type + "/" + storyName, true );
+        req.open( "GET", type + "/" + storyName + ".md", true );
         req.send();
       };
 
