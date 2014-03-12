@@ -28,6 +28,11 @@ hr {
 }
 
 a {
+  cursor: pointer;
   color: black;
   margin: 20px;
+}
+
+a:hover, .hover {
+  text-decoration: underline;
 }
