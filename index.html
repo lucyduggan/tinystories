@@ -30,23 +30,20 @@
     <a id="love-switch">Don't tell me a love story!</a>
     <a id="notlove-another">Tell me another story.</a>
     <a id="notlove-switch">I'd rather read a love story!</a>
+    <div class='shareaholic-canvas' data-app='share_buttons' data-app-id='5347377'></div>
     <script src="lib/markdown.js"></script>
     <script>
-      function getParameter( name ) {
-        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
-        var regex = new RegExp("[\\?&]" + name + "=([^&#/]*)"),
-            results = regex.exec(location.search);
-        return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
-      }
-
       var story = document.getElementById( "story" );
+      var type;
       var stories = {};
       var loveAnotherButton = document.getElementById( "love-another" );
       var loveSwitchButton = document.getElementById( "love-switch" );
       var notloveAnotherButton = document.getElementById( "notlove-another" );
       var notloveSwitchButton = document.getElementById( "notlove-switch" );
 
-      var type = "love";
+      setType( "love" );
+      loadStoryList();
+
       function setType( t ) {
         if ( t === "love" ) {
           type = "love";
@@ -63,36 +60,42 @@
         }
       };
 
-      // Parse URL to try and load correct story
-      var requestedType = getParameter( "type" );
-      var requestedStory = getParameter( "story" );
+      function getParameter( name ) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#/]*)"),
+            results = regex.exec(location.search);
+        return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+      }
 
-      setType( "love" );
+      // Parse URL to try and load correct story
+      function getRequestedStory() {
+        var requestedType = getParameter( "type" );
+        var requestedStory = getParameter( "story" );
+        if ( ["love", "notlove"].indexOf( requestedType ) !== -1 &&
+             stories[requestedType].indexOf( requestedStory ) !== -1 ) {
+          // Story requested is valid, load it
+          loadStory( requestedType, requestedStory );
+        } else {
+          // Otherwise, fall back to random story
+          loadRandomStory();
+        }
+      }
 
       function loadStoryList() {
         var req = new XMLHttpRequest();
         req.onload = function() {
           stories = JSON.parse( this.responseText );
-          if ( ["love", "notlove"].indexOf( requestedType ) !== -1 &&
-               stories[requestedType].indexOf( requestedStory ) !== -1 ) {
-            // Story requested is valid, load it
-            loadStory( requestedType, requestedStory );
-          } else {
-            // Otherwise, fall back to random story
-            loadRandomStory();
-          }
+          getRequestedStory();
         };
         req.open( "GET", "stories.json", true );
         req.send();
       };
 
-      loadStoryList();
 
       function loadStory( type, storyName ) {
         var req = new XMLHttpRequest();
         req.onload = function() {
           story.innerHTML = markdown.toHTML( this.responseText );
-          window.history.pushState( undefined, undefined, "/?type=" + type + "&story=" + storyName );
         };
         req.open( "GET", type + "/" + storyName + ".md", true );
         req.send();
@@ -101,8 +104,15 @@
       function loadRandomStory() {
         var storyName = stories[type][Math.floor( Math.random() * stories[type].length )];
         loadStory( type, storyName );
+        window.history.pushState( undefined, undefined, "/?type=" + type + "&story=" + storyName );
       };
 
+      // Register for history events so correct story can be reloaded
+      window.onpopstate = function(event) {
+        getRequestedStory();
+      }
+
+      // Hook up buttons to correct functions
       loveAnotherButton.addEventListener( "click", function() {
         loadRandomStory();
       } );
@@ -121,6 +131,5 @@
         loadRandomStory();
       } );
     </script>
-      <div class='shareaholic-canvas' data-app='share_buttons' data-app-id='5347377'></div>
   </body>
 </html>
