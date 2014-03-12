@@ -5,23 +5,23 @@
     <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
     <link href="css/style.css" rel="stylesheet">
     <script type="text/javascript">
-//<![CDATA[
-  (function() {
-    var shr = document.createElement('script');
-    shr.setAttribute('data-cfasync', 'false');
-    shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
-    shr.type = 'text/javascript'; shr.async = 'true';
-    shr.onload = shr.onreadystatechange = function() {
-      var rs = this.readyState;
-      if (rs && rs != 'complete' && rs != 'loaded') return;
-      var site_id = '8848411a57231aa359a031f4414766fa';
-      try { Shareaholic.init(site_id); } catch (e) {}
-    };
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(shr, s);
-  })();
-//]]>
-</script>
+    //<![CDATA[
+      (function() {
+        var shr = document.createElement('script');
+        shr.setAttribute('data-cfasync', 'false');
+        shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
+        shr.type = 'text/javascript'; shr.async = 'true';
+        shr.onload = shr.onreadystatechange = function() {
+          var rs = this.readyState;
+          if (rs && rs != 'complete' && rs != 'loaded') return;
+          var site_id = '8848411a57231aa359a031f4414766fa';
+          try { Shareaholic.init(site_id); } catch (e) {}
+        };
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(shr, s);
+      })();
+    //]]>
+    </script>
   </head>
   <body>
     <div id="story"></div>
@@ -32,6 +32,14 @@
     <a href=# id="notlove-switch">I'd rather read a love story!</a>
     <script src="lib/markdown.js"></script>
     <script>
+      function getParameter( name ) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#/]*)"),
+            results = regex.exec(location.search);
+        return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+      }
+
+      console.log( getParameter( "story" ) );
       var story = document.getElementById( "story" );
       var stories = {};
       var loveAnotherButton = document.getElementById( "love-another" );
