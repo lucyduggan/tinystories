@@ -89,17 +89,17 @@
         };
         req.open( "GET", type + "/" + storyName + ".md", true );
         req.send();
+        $('.social-likes').socialLikes({ "url": location.href });
       };
 
       function loadRandomStory() {
         var storyName = stories[type][Math.floor( Math.random() * stories[type].length )];
-        loadStory( type, storyName );
         window.history.pushState( undefined, undefined, "/?type=" + type + "&story=" + storyName );
-        $('.social-likes').socialLikes({ "url": location.href });
+        loadStory( type, storyName );
       };
 
       // Register for history events so correct story can be reloaded
-      window.onpopstate = function(event) {
+      window.onpopstate = function( event ) {
         getRequestedStory();
       }
 
