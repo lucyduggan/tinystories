@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Frequently Told Stories</title>
+    <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
+    <link href="css/style.css" rel="stylesheet">
+    <script type="text/javascript">
+//<![CDATA[
+  (function() {
+    var shr = document.createElement('script');
+    shr.setAttribute('data-cfasync', 'false');
+    shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
+    shr.type = 'text/javascript'; shr.async = 'true';
+    shr.onload = shr.onreadystatechange = function() {
+      var rs = this.readyState;
+      if (rs && rs != 'complete' && rs != 'loaded') return;
+      var site_id = '8848411a57231aa359a031f4414766fa';
+      try { Shareaholic.init(site_id); } catch (e) {}
+    };
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(shr, s);
+  })();
+//]]>
+</script>
+  </head>
+  <body>
+    <div id="story"></div>
+    <hr>
+    <a href=about.html id="love-another">Tell me another love story.</a>
+    <a href=# id="love-switch">Don't tell me a love story!</a>
+    <a href=# id="notlove-another">Tell me another story.</a>
+    <a href=# id="notlove-switch">I'd rather read a love story!</a>
+    <script src="lib/markdown.js"></script>
+    <script>
+      var req = new XMLHttpRequest();
+      req.onload = function() {
+        story.innerHTML = markdown.toHTML( this.responseText );
+      };
+      req.open( "GET", "about_text.md", true );
+      req.send();
+    </script>
+      <div class='shareaholic-canvas' data-app='share_buttons' data-app-id='5347377'></div>
+  </body>
+</html>
