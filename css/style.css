@@ -6,7 +6,7 @@ html {
   line-height: 1.5;
   color: black;
   text-align: center;
-  background: #113;
+  background: #fcfcfc;
   background-image: url("img/crossword.png");
   height: 100%;
 }
@@ -28,9 +28,15 @@ hr {
 }
 
 a {
+  cursor: pointer;
   color: black;
 }
 
 .button {
   margin: 20px;
+  text-decoration: none;
+}
+
+a:hover, .hover {
+  text-decoration: underline;
 }
