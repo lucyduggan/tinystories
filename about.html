@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Frequently Told Stories</title>
+    <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+  <body>
+    <div id="story"></div>
+    <hr>
+    <script src="lib/markdown.js"></script>
+    <script>
+      var req = new XMLHttpRequest();
+      req.onload = function() {
+        story.innerHTML = markdown.toHTML( this.responseText );
+      };
+      req.open( "GET", "about_text.md", true );
+      req.send();
+    </script>
+  </body>
+</html>
