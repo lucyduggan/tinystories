@@ -1,0 +1,2 @@
+The tough cases
+===============He was not a good detective, and rarely solved a case, but he’d often glance at someone and say, ‘You’re obviously staying up too late, worrying about your daughter – you should phone her,’ or, ‘In the end, it doesn’t matter whether you’re good at entertaining his colleagues, he just wants to feel you’re supporting him.’ He obviously should have become an agony aunt, but no one quite dared to say so, because he was burly and determined to succeed.
