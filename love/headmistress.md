@@ -1,0 +1,2 @@
+Blind date with a headmistress
+==============================To be honest, I quite liked the idea that she would comment sharply on the state of my hair and my sloppy style of eating prawns, but instead she nervously asked my opinion on the wine, obviously worried that I’d find her domineering.
