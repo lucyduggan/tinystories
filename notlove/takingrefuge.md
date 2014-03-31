@@ -1,0 +1,3 @@
+Taking refuge
+=============
+In the spring of that year, she changed her name to Krys ‘with a K’ and began to look around her with anxious belligerence, as if she expected always to be disbelieved. Her mother refused to use the new name, and took up a series of strange hobbies to avoid spending time with her daughter. But a year or so later, I saw them together, competing in a mixed age octopushing tournament. ‘We’ve got a curling match tomorrow, too,’ said Krys’ mother, laughing, and Krys smiled.

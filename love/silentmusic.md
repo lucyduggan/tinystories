@@ -1,0 +1,2 @@
+Silent music
+============Her voice always grew a bit higher when she talked about Sasha. Her hands fluttered above the table, as if she were practising the piano, and her mother looked at her oddly.
