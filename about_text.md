@@ -9,3 +9,9 @@ Frequently told stories
 -----------------------------------------------------------------------------------------Having drafted 70 love letters and thrown them all away, Mel finally found the perfect sentences at [www.tinystori.es](http://www.tinystori.es) and copied them out in dark green pen, on a sheet of pastel pink paper.*The stories are published under the [Creative Commons Attribution Non-Commercial licence](http://creativecommons.org/licenses/by-nc/4.0/). You can use them for any non-profit project, so long as you credit the author and publish them under the same licence.*
 
 -----------------------------------------------------------------------------------------Jan was always on the look-out for serious stories about mermaids, which made life somewhat disappointing, especially as people kept saying, ‘You’ve got Disney, what more do you want?’*To request topics for stories, go to the [facebook page](https://www.facebook.com/tinytinystories) or look for us on [twitter](https://twitter.com/readatinystory). Suggestions are always very welcome.*
+
+------------------------------------------------------------------------------------------
+
+Charlotte, Emily and Ann wanted to see their own tiny stories published at [www.tinystori.es](http://www.tinystori.es), but were unsure whether to use a pseudonym.
+
+*There is no automatic ‘submit’ function, but we would like to publish ‘guest stories’ now and then. If you would like to see your own story here, email writeatinystory at gmail dot com.*
