@@ -1,0 +1,2 @@
+Something new
+=============When Thea left, Dad changed all the brands he bought from the supermarket. We ate unfamiliar ham, and the ketchup label had a big red face on it. ‘What is it?’ my little brother kept asking. ‘It’s something new,’ said my dad, every time.
