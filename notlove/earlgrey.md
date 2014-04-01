@@ -1,0 +1,2 @@
+Earl Grey
+=========She often watched the face of the Earl on the little paper label which hung on a string at the end of the tea bag. He had a message for her, she was sure – but she could not work out whether it was something important. Perhaps he was just objecting to the fact that she poured the milk into her cup after the tea.
