@@ -1,0 +1,2 @@
+Art world
+=========He could spend minutes staring at two eights side by side, or watching the shadows thrown by a tupperware box when the light shone through it: it was all art to him. She found it endearing, except when Christmas came, and he gave her a piece of dark green plastic, framed as if it were a portrait.
