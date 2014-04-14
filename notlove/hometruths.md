@@ -1,0 +1,2 @@
+Home truths
+===========He believed in honesty. He darned the holes in his clothes with purple thread, so that everyone could see where they’d worn thin, and he never tried to make his children’s achievements sound better than they were. If I hadn’t been his son, I would have found it a lot easier to admire him.
