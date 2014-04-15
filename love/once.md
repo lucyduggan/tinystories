@@ -1,0 +1,2 @@
+Once
+====We got up early, went to the fish market in the morning mist and bought sardines straight from the boats. We ate them for breakfast, on the sunny balcony, and gave the heads and tails to the cat. I wanted to do it again, the very next week, but she said she’d rather remember it as a one-off, ‘the time we had sardines for breakfast,’ and I didn’t want to argue, in case it turned out that she saw me as a one-off too.
