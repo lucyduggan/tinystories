@@ -1,0 +1,2 @@
+Afterwards
+==========She often dreamt that she went back there, and all the shops had gone, their windows gleaming empty. No one was on the streets, and she wandered, looking for her home, which was somehow missing. Then she would wake up and remember that the whole city was gone now, razed, and she felt relieved.
