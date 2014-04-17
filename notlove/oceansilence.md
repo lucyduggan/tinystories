@@ -1,0 +1,2 @@
+Ocean silence
+=============She lived on a lake for a while, but she hated it. The lapping of the water below her house on stilts was a mockery of the pitch and roll of the sea. Small freshwater shells were washed up on her porch sometimes, and she picked them up and turned them over in her hand, but did not hold them to her ear, knowing that she would hear nothing but silence.
