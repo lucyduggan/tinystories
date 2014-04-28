@@ -1,0 +1,2 @@
+Going through
+=============I began to see tunnels: eating breakfast, there seemed to be a hole in my avocado, straight through the stone to the white of the china plate. And walking out of the house, I’d look up to find a hole in the sky. I know you pulled me back, at least once, because I looked like I was going to jump upwards and fall through the clouds.

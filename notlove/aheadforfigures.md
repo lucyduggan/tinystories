@@ -1,0 +1,2 @@
+A head for figures
+==================He fulfilled his dream: he clawed his way up from the roar of the building site to the silence of his own personal office, where he totted up budgets for buildings, and where people had to knock softly before he would speak to them. He always murmured, so that they had to lean forward to listen. Soon, though, he heard the roar of the numbers, as he built them up into dizzying columns, and even the act of subtraction or multiplication buzzed like a drill in his ears.
