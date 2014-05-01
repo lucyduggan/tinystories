@@ -1,0 +1,3 @@
+Dignified silence
+=================
+If he had screamed at her in the street, instead of remaining silent all the way home and only asking her to turn off the light before quickly falling asleep with his back turned towards her, perhaps she would have felt a twinge of guilt. But he remained silent the next morning, too, whilst disemboweling half a grapefruit with a spoon, and so she left, after clearing the breakfast table.
