@@ -1,0 +1,2 @@
+The abolition of the knife and fork
+===================================Dad was a fan of Italian futurist cooking, and used to serve up curried ice cream, which she had to eat whilst scrubbing the backs of her arms with a pumice stone and listening to prog rock. Mum used to say she split up with him when she couldn’t stand any more of this avant-garde proto-fascism, but Dad told me he threw her out after she cheated on him with a pizza delivery boy.
