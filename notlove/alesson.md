@@ -1,0 +1,3 @@
+A lesson in good presentation
+=============================
+She decorated all her essays with illustrations that covered half the page, and when they told her to stop, she left school and became a world famous graffiti artist. They invited her back to present the prizes on speech day – but when the day came, she did not turn up. Instead, overnight, half the facade of the school was covered in swirls of paint: it was a self-portrait, showing a small figure covering the wall with colour. It would have been very valuable, if they could have sold it.
