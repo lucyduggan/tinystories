@@ -1,3 +1,3 @@
 Endless disco
 =============
-When the slow songs came on, a boy from her class would silently clamp his arms around her and they would ‘dance’ without moving She and Charlotte would look at each other helplessly, over the shoulders of the boys. What she didn’t expect was that things would be exactly the same fifteen years later, on holiday together, as they gazed at each other worriedly over the shoulders of their fiancés. 
+When the slow songs came on, a boy from her class would silently clamp his arms around her and they would ‘dance’ without moving. She and Charlotte would look at each other helplessly, over the shoulders of the boys. What she didn’t expect was that things would be exactly the same fifteen years later, on holiday together, as they gazed at each other worriedly over the shoulders of their fiancés. 
