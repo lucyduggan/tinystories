@@ -27,6 +27,13 @@ hr {
   margin: 60px 100px;
 }
 
+blockquote {
+  color: #666;
+  margin-bottom: 20px;
+  padding: 0 0 0 20px;
+  border-left: 3px solid #bbb;
+}
+
 a {
   cursor: pointer;
   color: black;
