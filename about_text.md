@@ -1,6 +1,6 @@
 Frequently told stories
 =======================
-After reading all of the stories at [www.tinystori.es](http://www.tinystori.es), Jay wondered who had written them.*The stories here were written by [Lucy Duggan](http://www.peerpress.co.uk/lucyduggan.html).* 
+After reading all of the stories at [www.tinystori.es](http://www.tinystori.es), Jay wondered who had written them.*The stories here were written by [Lucy Duggan](http://www.peerpress.co.uk/lucyduggan.html), unless they are labelled as guest stories.* 
 
 -----------------------------------------------------------------------------------------After playing around with [www.tinystori.es](http://www.tinystori.es), Lee wanted to create a better version with 100 different choices at the bottom and a circle of fireworks around each story.*The website was created by [Felix Palmer](http://www.pheelicks.com). You can get the code [here](https://github.com/lucyduggan/tinystories) and make your own version.*
 
