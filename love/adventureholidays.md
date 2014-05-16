@@ -1,0 +1,3 @@
+Adventure holidays
+==================
+That year, she went to St Tropez with Jim, and left with Steve. Steve took her to Alicante the next summer, but she left with Cory. She and Cory got on well until they holidayed in Corfu, where she met Sandy, who booked a beach house in Minorca, which she almost burned down the night she ended up chatting to Diana. She was noticing a pattern. She and Diana each holidayed alone, and remained together for more than twenty years.
