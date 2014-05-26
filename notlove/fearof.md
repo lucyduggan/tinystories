@@ -1,0 +1,3 @@
+Fear of invasion
+================
+She was famous for leaving blank spaces: a man would be missing a hand, or a girl would be left with one eye. This was a commentary on modern society, they said. In fact, she was superstitious: she had read a story in which paintings came to life when they were finished, and she didn’t want that to happen to her own artworks, so she always left a broken outline, an empty patch of canvas.
