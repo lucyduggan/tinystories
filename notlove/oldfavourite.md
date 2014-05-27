@@ -1,3 +1,3 @@
 Old favourite
 =============
-The whole family was irritated by Janie: she began every sentence with ‘Back in the US...’; she spent hours making her hair stick up, using Henry’s hair gel, and she broke the X Box, for which she didn’t seem that apologetic. But later, when Janie went back to America and Henry got a different girlfriend, who only ever dressed in pale pink and never admitted to having an opinion, we began to reminisce about Janie. ‘She was cool, I always liked her,’ we said.
+The whole family was irritated by Janie: she began every sentence with ‘Back in the US...’; she spent hours making her hair stick up using Henry’s hair gel, and she broke the X Box, for which she didn’t seem that apologetic. But later, when Janie went back to America and Henry got a different girlfriend, who only ever dressed in shades of white and never admitted to having an opinion, we began to reminisce about Janie. ‘She was cool, I always liked her,’ we said.
