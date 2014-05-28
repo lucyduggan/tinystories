@@ -1,0 +1,3 @@
+The game
+========
+We called it the Evil Neighbour Game, even though we knew the neighbour was called Mrs Shan. She lived alone, and waddled along to the corner shop every morning, where she bought iced buns. Years later, when we occasionally saw each other at family parties, I knew we were all remembering the letters we would send to Mrs Shan, her shaky steps as she crossed the road each morning and looked over her shoulder. But we never talked about it: we didn’t talk to each other at all, if we could help it.
