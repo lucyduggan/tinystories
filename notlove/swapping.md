@@ -1,0 +1,2 @@
+Swapping
+========She would come to the door, bringing something to swap, so that it didn’t seem like begging: blackberries from the wasteland by the river, budding branches from the hawthorn bushes, or just glass jars which she had carefully cleaned. Mum would give her eggs and butter, or sometimes clothes. And the last time she came, she brought a bundle in her arms: a baby. When I was still little, I used to tell Ana that Mum swapped her for a pair of shoes and a warm jumper, but later I almost forgot about it – as if I had always had a sister.
