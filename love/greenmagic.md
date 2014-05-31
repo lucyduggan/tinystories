@@ -1,0 +1,2 @@
+Green magic
+===========She had a book of love potions, handwritten: oil of avocado to provoke boldness, pollen of apple trees against infidelity. She had to hide it, after her daughter’s favourite teacher fell ill, and she realised that he had been poisoned with an inexpertly crushed mixture of wild garlic, nettles and white asparagus: ‘a recipe to make the beloved notice his admirer.’
