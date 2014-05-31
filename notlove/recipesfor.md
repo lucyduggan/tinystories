@@ -1,0 +1,2 @@
+Recipes for invalids
+====================She believed that yoghurt would cure throat infections, and oily fish would deal with headaches. Perhaps she was right. I remember her sitting up in bed in the weeks before she died, eating Greek yoghurt with a thin path of honey on top. 
