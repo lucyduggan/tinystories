@@ -1,0 +1,2 @@
+In search of sleep
+==================She once fell asleep standing in the queue at the ironmonger’s, and another time she dozed off in the dentist’s chair. But she never slept soundly in her own bed – if she dropped off at all, she dreamt of falling asleep and being shaken awake by concerned strangers, endlessly asking her if she was all right.
