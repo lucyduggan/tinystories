@@ -1,0 +1,2 @@
+The voice of the visitor
+========================The dose was too high. He found himself becoming someone gentle, someone who asked if Ayla was all right and if she wanted tea, and who did not get aggravated when she looked at him, puzzled to hear that other voice coming from his mouth. He liked this new person, and began to dread the day when they would call him ‘cured’, and the stranger’s visit would end.
