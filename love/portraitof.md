@@ -1,0 +1,2 @@
+Portrait of the artist’s husband as an eagle
+=============================================He pretended not to mind that none of her pictures were of him. She caught him looking sideways at an eagle perched on a precipice, searching for echoes of his own face. Secretly, she worked on portraits of him, trying to capture the hopeful line of his eyebrows, but she could never get his likeness.
