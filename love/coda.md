@@ -1,0 +1,2 @@
+Coda
+====She never really listened to my stories, or the details of my day, but if I hummed a tune, she always asked where it came from. ‘It came from the blue-haired girl who walked past my window, who should have been at school,’ I would say. Or: ‘That’s what the gondolier was whistling.’ She followed the path of the tunes and sang them herself. I knew that when we parted, she would hum a mixed melody for a while, and so would I.
