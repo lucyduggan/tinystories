@@ -1,0 +1,2 @@
+Good memory
+===========She wore a marigold on her lapel, as arranged. But when I saw her, I recognised the girl who had laughed at my hair at school, calling it ‘stringy spaghetti hair’. She had given a different name, now that she was thirty years older and seeking an affair. I was about to walk away, but then I approached her, realising the many forms revenge can take.
