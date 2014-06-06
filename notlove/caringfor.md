@@ -1,0 +1,2 @@
+Caring for Phyllis
+==================I filled the house with flowers, and she sat on her wicker armchair, sneezing and glaring at me, eyes watering, but still she wouldn’t say a word. She had said that she’d ignore me, even if it killed her, and I began to realise that she was quite serious.
