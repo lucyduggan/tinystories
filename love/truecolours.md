@@ -1,0 +1,2 @@
+True colours
+============We had decided to give it another chance. But when I saw that the same beige blanket still lay carefully draped over the sofa, hiding its patterns, I realised that we’d been right to separate, and I left while you were making sage tea and waiting expectantly for me to apologised for smashing your collection of laid back jazz and stamping on your cream-coloured lampshades.
