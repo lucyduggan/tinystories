@@ -1,0 +1,2 @@
+The stepmother’s kitchen
+========================At first, I loved the food she cooked: soup made from vegetables I hadn’t heard of, puddings with layers of fruit and meringue, and perfectly round poached eggs. But every time I visited, she worried loudly that my mother was feeding me rubbish: ‘At least you get fed properly here, my dear,’ she said. Gradually, her beetroot tartlets began to taste of dust, as I thought of my mother hugging me tight when she hurried home and put a microwaved pizza on the table.
