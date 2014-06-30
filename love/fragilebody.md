@@ -1,0 +1,2 @@
+Fragile body
+============She was excited when he told her he was an athlete. But when she saw that he lived on gels in shiny packets, on protein shakes with extra maltodextrin, and on cereals which looked like medicines, her ardour cooled. Somehow, she had the feeling that if she hugged his muscles hard, he would dissolve with the fizz of a vitamin tablet in water.
