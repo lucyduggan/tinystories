@@ -1,0 +1,2 @@
+Liquid lunch
+============He had learnt so many ways to drink, and now they said he had to give them up. He found himself slicing cucumber for a gin and tonic, or putting champagne glasses in the fridge to cool them before Laurie got home – and then remembering that he wasn’t meant to drink. She would arrive and find that he’d created one of his crazy soups – nutmeg, tomatoes, olives and a twist of lemon – ‘It’s a cocktail!’ he always said.
