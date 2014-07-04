@@ -1,0 +1,2 @@
+Traffic jam silences
+====================We met on a train. I only realised later that she barely talked unless she was on the move: take her out for dinner and she’d sit in silence, invite her for a picnic and she’d lie back and stare at the sky, but as soon as we were on a tram together or driving in her car, she’d begin talking, asking questions. We got married on the Trans-Siberian Railway, and at weekends we drive around, talking.
