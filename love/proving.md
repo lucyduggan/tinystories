@@ -1,0 +1,2 @@
+Proving
+=======There was no way I was going to tell her I loved her, so I told her my mum had sent me round with a recipe. She watched me curiously as I fumbled to scribble down the method my mum used to make bread. At school the next day, she showed me her sandwiches: perfect, springy wholemeal slices. ‘I thought you were just making up excuses, but I guess it really was about the bread,’ she said sadly, and I stared at the stupidly perfect crust while I tried to think what to say.
