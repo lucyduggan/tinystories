@@ -1,0 +1,2 @@
+Mabonagrain, Mackerel, Madness
+=============================I was worried about him: he had begun to write an encyclopaedia. He began at M, and cross-referenced hundreds of entries which did not yet exist – entries beginning with A, B, or N, or any other letter but M. I realised that he thought this would lead him to Maria: if he wandered for long enough in the labyrinth of that first letter, she would appear in the doorway and ask if he felt like a game of Scrabble, to show that she’d forgiven him.
