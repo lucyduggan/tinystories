@@ -1,0 +1,2 @@
+Reluctant reader
+================As a child, I hated reading, but I never told anyone why: it was too real, I felt as if I’d hanged myself when I read about Miss Haversham, and when Cathie starved herself, I almost fainted. I used to stare out of the window when the teacher read to us, distracting myself. Now, of course, I write erotica, under a pseudonym – my friends all think I never read a word.
