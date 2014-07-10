@@ -1,0 +1,2 @@
+Common denominator
+==================Sometimes names took over her dreams. She was seeing a guy called Alexander Pine-Coffin when she realised – take away his name, and he wouldn’t even be someone she’d look twice at. She looked back, remembering Phineas Battista-Ray, Harrison Frame and Alisa Flink, and accepted the truth: none of them would have interested her if they’d had boring names, like her own.
