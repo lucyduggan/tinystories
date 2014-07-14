@@ -1,0 +1,2 @@
+Return of the invisible friend
+==============================I went on writing you notes in class, long after you stopped replying; I kept them in my pencil case. You became my invisible friend, and when I left for university, I went on writing to you. Much later, you got in touch, writing a Christmas card about your divorce and your kids, wondering about meeting up; I didn’t answer.
