@@ -1,0 +1,2 @@
+Phantom
+=======When they had to sell Bea’s piano, it left a large empty space in the hall which everyone avoided stepping into – even visitors who didn’t know the story. At last, Bea shoved a sofa into the space and she would sit on it, her crushed arm hanging stiffly, a drink in her good hand. People gathered round to talk to her, almost too eagerly, but no one ever sat on the sofa, except for her.

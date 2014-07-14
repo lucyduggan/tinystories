@@ -1,0 +1,2 @@
+Catalogue
+=========He specialised in ugliness of all kinds. You should have seen the photos on his walls: women with no teeth, with tall, bald heads, with blank eyes. That’s why he was interested in me, I realised. I photographed him in his house, for my famous exhibition, ‘Collectors with their collections’.
