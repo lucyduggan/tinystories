@@ -1,0 +1,2 @@
+Silhouette
+==========After she died, I found her Book of Errors – in fact, a series of notebooks, each with the same title, cataloguing every mistake she had made, from Latin grammar to adultery. She went on writing in the nursing home. I hadn’t known, and didn’t want to know – but as I turned the pages, she emerged, a kind of negative of what she’d written – and I thought of how often she’d forgiven me.

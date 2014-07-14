@@ -1,0 +1,2 @@
+In law
+=======I realised a few weeks after the wedding, sitting drinking Bloody Marys with Jeanette on the terrace, that I had married Elliot for his mother. I turned the pages of our honeymoon album, and she laughed at the little captions I’d written, while I thought about how I’d never had a friend like her. Meanwhile, Elliot was repainting the kitchen, wearing those overalls which I’d once found attractive, and I tried not think about how getting rid of Elliot would have meant losing his mother.
