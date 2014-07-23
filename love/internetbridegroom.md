@@ -1,0 +1,2 @@
+Internet bridegroom
+===================He arrived like a birthday present: she had arranged for him to travel from Brazil, and had picked out the top hat and tails which she wanted him to wear for the wedding. It almost worked out: she had learnt enough Portuguese to discuss his ambitions and compliment his cooking, and he took his duties seriously, even redecorating the bedroom. But he fell for her friend Jeremy, and in the end he kept the top hat and tails whilst she kept the new four-poster bed and the pile of Portuguese textbooks at her bedside.

@@ -1,0 +1,2 @@
+The scent of secrets
+====================It was suspicious: she would come home smelling of lavender and rosewater, smiling beatifically. He was certain that she was having an affair, but she just laughed. ‘Do you think adultery would make me feel this good?’ she asked, and packed her bags, along with her new qualification as a masseuse and aromatherapist.
