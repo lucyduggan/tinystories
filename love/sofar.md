@@ -1,0 +1,2 @@
+So far from wife and child
+==========================I haven’t seen my husband, K., for months: he went off for a job, measuring land boundaries for Count Westwest. Every day, my children wait for a messenger, but there’s no news. K.’s last letter is pinned up on the wall above my bed: a postcard with a picture of a dark landscape, the castle not even visible on the hill. I read it every evening, trying to puzzle out how this will end. 

@@ -1,0 +1,2 @@
+The words of the poet
+=====================For ten years, we met and he talked beautifully about poetry, while I listened and agreed. He had a small, brown notebook in which he wrote, but he never showed it to me – instead, he quoted Keats and Manley-Hopkins, and talked of sound and rhythm. I wish I’d never sneaked a look inside his notebook when he went to take a phone call: it was filled with sentimental ditties which praised my eyes and rhymed them with my matchless thighs.
