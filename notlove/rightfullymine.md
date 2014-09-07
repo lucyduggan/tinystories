@@ -1,0 +1,2 @@
+Rightfully mine
+===============It was only fair: I saw her mother threaten to smack her in the supermarket, so I took my chance, bundled her into my arms in the yoghurt aisle and hurried out. She didn’t cry – it was as if she knew that this was meant to happen – and now that we live somewhere far away, she speaks the language as if she’d been born here. Only sometimes, she looks at me with foreign eyes, but I suppose all daughters do that. 
