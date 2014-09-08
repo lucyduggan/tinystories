@@ -1,0 +1,2 @@
+Making room
+===========Linda moved in soon after I left home to study. At first, my parents said she was just a friend. She wore her hair in tall curls and wasn’t much older than me, but she always asked me how was college and what did I want to do when I was older. They walked in a three, holding hands, with Linda in the middle, and I thought pettily of my unexciting student life.
