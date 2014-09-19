@@ -1,0 +1,2 @@
+A nose for friendship
+=====================Her dog stopped liking me before she did. He would retreat from my hand when I tried to stroke him, and then he began to growl softly when he saw me. It didn’t take long before she began to make excuses not to see me – I never found out why, but I think I just didn’t smell right anymore.
