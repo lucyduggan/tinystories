@@ -1,0 +1,2 @@
+The ones who weren’t
+====================She kept a tally: when she was waiting for the bus, watching people pass, or when she looked around her in a café, she would note down the people she thought she could have been friends with, if they hadn’t been strangers. ‘Girl in red, glasses, notebook,’ or ‘fair-haired guy smiling to himself’. One year, she counted 567 friends who might have been – another year, it was only 26.
