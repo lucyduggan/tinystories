@@ -1,0 +1,2 @@
+Like you mean it
+================She had a way of laughing softly after almost everything she said, as if to show that she didn’t mean anything seriously. I heard her telling him that she didn’t want another drink, and laughing huskily like that, and he laughed too, but in a different way, and plonked two double vodkas on the table.
