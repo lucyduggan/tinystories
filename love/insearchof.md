@@ -1,0 +1,2 @@
+In search of a cure
+===================What I remember most, now, about Dennis, is the sight of his swollen tonsils. That’s how we met: he was worried about tonsillitis; I diagnosed a bad cold. Now that I have mainly succeeded in forgetting our awkward first date at a sushi restaurant, his earnest attempts to make me like action films, and his infuriated pursed lips whenever I said I had to get up early for work, I am left with this: his open mouth, and my torch shining in.
