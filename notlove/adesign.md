@@ -1,0 +1,2 @@
+A design for friendship
+=======================We were best friends: they picked on you for your accent and me for my weight, so we had to stick together. We watched all the same films together, even though I only pretended to like Star Wars, and we spent hours making things in the DT block, even though I’m pretty sure you weren’t that interested in creating a mobile phone holder from perspex. We still see each other sometimes, but I’ve lost weight and you’ve lost your accent, so we don’t seem to have that much in common.
