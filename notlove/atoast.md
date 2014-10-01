@@ -1,0 +1,2 @@
+A toast to failure
+==================Sometimes, she still wears her wedding dress. Everyone finds it embarrassing: she was jilted at the altar a few years ago, but instead of selling the dress, she throws parties and dances the night away, wearing ivory meringue with lacy shoulders. When we gently bring it up with her,  she rolls her eyes. ‘It's my favourite dress,’ she says, ‘and now I want to drink to the fact that I never married Martin! Here’s to jilting!’ And she raises her glass.
