@@ -1,0 +1,2 @@
+Matching
+========The neighbours complained: her newly striped and pink-green-lemon dotted house did not match the rest of the row. So one summer night, when most of them were holidaying in Malaga, she enlisted a group of adventurous decorators to add spots and stripes to the whole street. Soon afterwards, the local press arrived, and the TV cameras, and she heard one neighbour talk about a ‘lively community which celebrated eccentricity’, and so she sat back happily in her front garden, sipping a bright pink cocktail to match her bright green gate.
