@@ -1,0 +1,2 @@
+Anything goes!
+==============The neighbours complained: she did not take part in naked dog-walking, in cheese-rolling competitions or in the annual mad hatter’s tea party. She was too normal, they said. In the end, she had to buy a pair of yellow wellies and wear them when it wasn’t raining, just to shut them up. But she didn’t stay long; she moved to the nearest anarchist commune as soon as possible.
