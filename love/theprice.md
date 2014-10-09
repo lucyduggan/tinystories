@@ -1,0 +1,2 @@
+The price of an ending
+======================We had bought so many things together in three years; I didn’t want to divide them up. So I sold them all – the guest bed with built-in drawers, the cocktail shaker, even the garlic crusher – and when she came round, I presented her with £2703.21: her share. She seemed to miss the pathos of the moment, left the money on the table, and ran from room to room. ‘You sold Ernie? Where is he? Where’s his lead, where’s his food?’ ‘I didn’t want to make him choose,’ I said. She didn’t get it; that’s what she was like.
