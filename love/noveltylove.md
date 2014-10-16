@@ -1,0 +1,2 @@
+Novelty love
+============I fell in love with him in France, and he came home with me. I looked at him sitting on my chintz sofa alongside my souvenirs – a novelty beret, an expensive summer dress which I’d probably never wear in England, and a wine cooler which had looked chic in Cannes but now looked garish, and realised that I’d made several silly mistakes.
