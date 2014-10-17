@@ -1,0 +1,2 @@
+Cruel summer
+============You stood up from weeding the strawberry patch and told me my mother was dead. I was looking at your plump arm, above the gardening glove, and saw a mosquito walking across your skin. I said nothing, and watched it begin to suck your blood.
