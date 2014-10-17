@@ -1,0 +1,2 @@
+The harmless husband
+====================She seemed almost disappointed to find that at sixty, he liked nothing better than to cook her dinner, or go with her to see a play. ‘I thought he’d be running off after a younger woman,’ she sniffed, ‘and leaving me to myself. But he’s quite happy to sit on the sofa, massaging my feet!’
