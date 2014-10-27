@@ -1,0 +1,2 @@
+Amateur dramatics
+=================For a long time, we shielded her from the truth, but when she saw him leaving the village hall with a painted cardboard tree under one arm and what appeared to be a horse’s head under the other, she had to accept it: his business meetings in London were a sham.
