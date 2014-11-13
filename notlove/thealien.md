@@ -1,0 +1,2 @@
+The alien child
+===============We did our best, of course, as parents: we bought her the latest awful music, left shocking clothes in her room, and tried to persuade her not to go to bed so early, but it was all in vain. Despite being fifteen, she had an excellent taste in early jazz, dressed in outfits that were both elegant and practical, and appeared not to suffer from a modicum of self-loathing.
