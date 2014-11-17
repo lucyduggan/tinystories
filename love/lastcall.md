@@ -1,0 +1,2 @@
+Last call
+=========They missed the flight, because they were too busy arguing about which of them was to blame for their daughter’s decision to drop out of university and become a circus performer. They rushed to the gate, and Peter yelled at the woman behind the desk, while Gracie wrung her hands. Then they stormed off home and sat at the kitchen table, eating baked beans and complaining about their daughter, about the airline and about the shops being closed. They hadn’t felt so united in years.
