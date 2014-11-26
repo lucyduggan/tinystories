@@ -1,0 +1,2 @@
+The third-floor window
+======================When things got stale, Jane proposed an innovation: she moved into the flat above his, and he climbed a rope, most nights, to visit her. It worked well, until he found her with Benjamin, who lived on the twenty-first floor and was a champion abseiler.
