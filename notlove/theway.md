@@ -1,0 +1,3 @@
+The way to work
+===============
+She chose a different route every day, arriving later and later as she had to travel ever greater distances in order to see a different corner, watch a different rabble of schoolchildren trail across the road. In the end, her way to work took up half the day, and they fired her. She sold her car and walked through the city all day, following the most circuitous routes.
