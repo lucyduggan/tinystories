@@ -1,0 +1,2 @@
+Too good to be true
+===================Nothing had prepared him for this: she listened to what he said and chatted intelligently, she did not attempt to seduce other men at the restaurant or put him in the friendzone, and when he told her he was a nice guy whom women never seemed to understand, she smiled and said, ‘Yes, you do seem like a really nice guy!’ There was only one explanation: it must be a cunning feminine trick. He left early, telling her he’d rather just be friends.
