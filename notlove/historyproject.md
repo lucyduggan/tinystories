@@ -1,0 +1,2 @@
+History project
+===============We wanted to record her memories for posterity, but it was difficult. She didn’t seem to remember much about the Blitz, and when we asked her what it was like to be evacuated, she giggled and began telling us a long story about her sister getting into trouble for being rude to the village vicar... In the end, the whole recording included more giggling than talking – not at all what we’d hoped.

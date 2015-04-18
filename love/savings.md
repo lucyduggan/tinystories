@@ -1,0 +1,2 @@
+Savings
+=======Later, she regretted hurling his letters into the rushing river at the bottom of a ravine. Now that he was President, she could probably have sold his rhyming erotic poems for quite a sum of money. With her later lovers, she kept every scrap of paper, but none of them became remotely famous. When she died, everyone thought she was secretly sentimental: her attic was full of scribbled notes ‘to my scrumptious honey pop’ and ‘to my delectable dumpling’, none of which had satisfied her hopes.

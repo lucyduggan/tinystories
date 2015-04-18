@@ -1,0 +1,2 @@
+He did not learn to write
+=========================He learned to drink his coffee very slowly, to eat a small cake in tiny bites, to avoid the eye of the waiter, and to hold the pen elegantly above the paper, in the hope that a good word might drop out.

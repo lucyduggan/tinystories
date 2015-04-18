@@ -1,0 +1,2 @@
+Self portrait
+=============My mother knew how to paint. She sat at her dressing table with a palette, rows of colours, a set of brushes. I watched her blend the paint into her skin, too young to know that nobody called her an artist.

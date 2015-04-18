@@ -1,0 +1,2 @@
+A glittering career
+===================He could have been a famous inventor, he said. He could have been a brilliant writer, a serious artist, a real athlete. For years, he sat at the window with the crossword, sharpening a pencil onto the table and telling me what he could have been, while I washed up the coffee cups and daydreamed about what could happen next if I told him I couldn’t sweep up his pencil sharpenings anymore.

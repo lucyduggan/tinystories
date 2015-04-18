@@ -1,0 +1,2 @@
+Old leather
+===========For someone so constantly broke, she owned a lot of beautiful shoes. At last, she admitted the truth, though only after I’d accused her of shoplifting: she’d had a boyfriend who was a foot fetishist, and he’d bought them for her. After that, I always felt strange when I passed them in the hallway, the rows of shoes; they seemed to sneer at me.

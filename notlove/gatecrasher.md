@@ -1,0 +1,2 @@
+Gatecrasher
+===========He had a box of drugs that looked like an ancient mahjong set. I tried to look like I knew what he was talking about. He sat on the porch, singing sad songs, melancholy versions of show tunes. He hadn’t been invited to the party, but we all ended up listening to him, wondering if his songs were actually the right ones, the originals. 

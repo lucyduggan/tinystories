@@ -1,0 +1,2 @@
+My story (exclusive)
+====================I sold my story many times over, in different countries. The names changed of course: it was always a different celebrity, and he or she always denied our wild affair. Except for one – the last one – who admitted everything, and married me in a quiet ceremony this week, in front of friends and family.

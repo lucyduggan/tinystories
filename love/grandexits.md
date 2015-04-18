@@ -1,0 +1,2 @@
+Grand exits
+===========He decided to dump her in style. They had had a great time together: she deserved nothing less than a luxury trip to Italy, where he took her to the best restaurant in Milan and told her, over the  espressos, that it wasn’t to be. He was surprised to find that she didn’t appreciate it – it was only years later, when his wife took him on a helicopter trip over the Grand Canyon and told him about her affair, that he finally understood.

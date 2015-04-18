@@ -1,0 +1,2 @@
+Scribbled quarrel
+=================When we were angry, we wrote on the walls. We started at opposite sides of the room, with the reasons we hated each other. And by the time our words began to cross, they had grown smaller, and we started to explain ourselves and wonder whether we’d been entirely fair – until the tail ends of our letters interlocked.

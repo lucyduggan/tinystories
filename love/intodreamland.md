@@ -1,0 +1,2 @@
+Into dreamland
+==============She began to have terrible dreams: every night, she dreamt I hurt her somehow. In the morning, she’d sit at the bright blue kitchen table and watch me making breakfast, looking at me with puzzled eyes. Of course the dreams weren’t real, but they were enough to make her leave, looking for other dreams.

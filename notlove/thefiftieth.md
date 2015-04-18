@@ -1,0 +1,2 @@
+The fiftieth volume
+===================That year, she began a diary for the fiftieth time. To commemorate the day, she spent a few hours flicking through the previous fifty notebooks: each contained a single entry, noting her decision to keep a diary, and giving a few half-explained details about her life since the last volume began: in each notebook, this was followed by a whole ream of blissfully white pages.

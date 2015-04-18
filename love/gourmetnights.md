@@ -1,0 +1,2 @@
+Gourmet nights
+==============Food was what we had in common. As time went on, and we realised how little we agreed in matters of politics, literature and lifestyle, we ate more and more: I would bring home pork knuckle or rump steak, or we would share a fondue of gruyere and appenzeller. We were both happy, and grew chubby, looking at each other gently over our plates of food.

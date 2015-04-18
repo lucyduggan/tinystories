@@ -1,0 +1,2 @@
+The message
+===========I learned nothing from the cards he sent at Christmas and on birthdays, and later, I learned nothing from his memoirs, nothing from his lengthy novels. I wanted to know why he left our family – especially my mother – but especially me, too. His endless books all seemed to say, ‘Because I felt like it.’
