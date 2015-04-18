@@ -1,0 +1,2 @@
+Critic in hiding
+================She lived in a house in the woods; they called her Mrs Lighthazel. Only a few people from her old life knew where she was. The radio said she’d once been the toast of the literary scene, but she didn’t remember being toasted by anyone. She wrote poetry, and out there in the woods she could have sung the words aloud, ripped open the door and no one would have heard – but she didn’t, she typed the poems up and looked at them with sober critical eyes.

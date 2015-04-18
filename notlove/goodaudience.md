@@ -1,0 +1,2 @@
+Good audience
+=============You read your poems to me, and I could never help thinking about the shopping list or the plans for our next holiday. When you asked me for ideas to fix a line that wasn’t working, I sometimes murmured ‘blueberries’ or ‘Corsica’, and you scribbled it down eagerly, never suspecting a thing.

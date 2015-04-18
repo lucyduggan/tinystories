@@ -1,0 +1,2 @@
+Mourning diet
+=============After both our mothers died in the same year, we agreed to live healthily. We ate organic fruit, went running every morning, and purged the house of all carcinogens. Sometimes, though, when you were out, I’d cook a fry-up and smoke cigarettes on the terrace, remembering our mothers arm in arm at the seaside, laughing and smoking. Once, I came home early and found that you had the same secret: you were sitting on the sofa, eating fish and chips and drinking an enormous cocktail.

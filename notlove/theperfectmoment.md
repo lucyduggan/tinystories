@@ -1,0 +1,2 @@
+The perfect moment
+==================I decided logically to have a baby. No weddings coming up this year, no bridesmaid dresses to fit into. Still young. Living in a large flat close to a playground and a good school. It all made sense. I warned my boss, and set about looking for someone to be the father.

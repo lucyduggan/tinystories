@@ -1,0 +1,2 @@
+Disappearance
+=============She had left her paintings to dry in the sun, on the windowsill. We thought she’d be back any day. But by the time we heard from her, the paintings had faded completely, and only the yellowed lines of ink were visible.

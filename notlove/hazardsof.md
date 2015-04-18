@@ -1,0 +1,2 @@
+Hazards of scholarship
+======================I knew she had stolen my words. They were there in her book, without a footnote, only very slightly rearranged: I was the one who had mapped out the path of the Futurists and found where it crossed with that of the Poetists, and I was the one who had first called André Breton slyly unctuous, which she had changed to unctuously sly. Her book, with all those stolen words, was a success. She took me out for dinner, so I ordered the most expensive steak, and told her that she had always reminded me of André Breton.

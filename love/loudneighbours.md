@@ -1,0 +1,2 @@
+Loud neighbours
+===============From our balcony, we watched them argue: every day, they’d leave the house for work, and she would tell him he was a lousy driver or a terrible liar, and he would retort that she was a bad listener or a terrible flirt, and they’d yell at each other for fifteen passionate minutes. I was jealous: if I ever told Donald he was a terrible liar, he just looked at me mildly and asked if I’d like a cup of tea.

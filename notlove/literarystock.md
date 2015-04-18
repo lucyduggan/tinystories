@@ -1,0 +1,2 @@
+Literary stock market
+=====================We lived like kings, making our millions from similes which slid like silver spoons into our mouths and left them like pearls, falling before the swine of our readership, who lapped them up like cats, cheshire cats? Anyway, we were like cats who got the cream.

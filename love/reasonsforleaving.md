@@ -1,0 +1,2 @@
+Reasons for leaving
+===================She fell out of love with Martin when she saw him eating mussels, and split up with Ian after she noticed the way he slurped his tea. By the time she met George, she was wary. She asked him to demonstrate all his habits as quickly as possible, and fed him a myriad dishes, waiting anxiously for the onset of disgust. This seemed to help: they were together for ten years. Then he happened to see her lick the icing off the top of a cupcake, and somehow things weren’t the same after that.

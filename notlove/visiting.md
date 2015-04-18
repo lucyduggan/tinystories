@@ -1,0 +1,2 @@
+Visiting
+========I was supposed to chat to her for half an hour each week, to keep her company. She said she’d had enough chat to last her a lifetime. She looked at me sternly from her rocking chair and asked if I knew any good drinking games.

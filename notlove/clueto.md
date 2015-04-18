@@ -1,0 +1,2 @@
+Clue to happiness
+=================Despite his wife’s affair, his embarrassingly bad performances at open mic nights, and his difficulties persuading anyone to employ him, you couldn’t help envying him sometimes: he could derive pure satisfaction from folding a piece of paper in half crisply, lining up the edges, and he seemed entirely happy when he sat down with a pot of coffee and a new cryptic crossword.
