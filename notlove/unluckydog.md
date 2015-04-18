@@ -1,2 +1,2 @@
 Unlucky dog
-===========She had heard that owners begin to resemble their dogs, so she bought a beautiful pedigree --- and waited eagerly to become sure-footed and elegant. Nothing happened, except that she thought her ears were softer. The dog, though, became plumper and humbler, and laid its head sadly on her knee each evening.
+===========She had heard that owners begin to resemble their dogs, so she bought a beautiful pedigree greyhound and waited eagerly to become sure-footed and elegant. Nothing happened, except that she thought her ears were softer. The dog, though, became plumper and humbler, and laid its head sadly on her knee each evening.
