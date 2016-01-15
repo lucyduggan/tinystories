@@ -1,0 +1,3 @@
+The shortlist
+=============
+I tried to list her faults – surely she had hundreds! She often left her socks on the floor when she got undressed, right beside the sculpture we bought in Rome, all those years ago. That’s all I could think of: everything else now seemed just a misunderstanding. And with time, the memory of her discarding her socks took on a golden hue, becoming an image of lost love.

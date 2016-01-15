@@ -1,0 +1,2 @@
+Minor language
+==============Plenty of couples seem to have their own language, but this went further. They invented word after word, alternative names for all their friends, special phrases for ordinary activities and even a grammar which began with each of them referring to themselves in the third person, but became increasingly elaborate. They forgot their old language – the one which was written in books, and spoken at dinner parties, to which they were no longer invited very often.

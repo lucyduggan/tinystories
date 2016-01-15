@@ -1,0 +1,2 @@
+Getting to work
+===============Each day, the ritual was more elaborate: at first, she’d simply close the door, clear a space on her desk and sit down resting her head on her hand, before beginning to write. As time went by, she’d spend a moment each morning arranging her pens, making a cup of rosehip tea, polishing the mirror above the desk, and reordering the postcards which she kept in the righthand drawer. In later years, it would be past five pm when she’d finally start writing – and it was in that period that she produced her most stunning poems.

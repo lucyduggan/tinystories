@@ -1,0 +1,2 @@
+The prince arrives
+==================She told me I was late, and when I saw that in my absence, she had succeeded in biting through the ropes that bound her, forcing the locks on the dungeon door and assassinating the evil wizard, I had to accept that she was right.

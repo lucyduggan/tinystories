@@ -1,0 +1,3 @@
+Long conversation
+=================
+We had never met, but we used to leave passive aggressive notes for each other in the hallway: he told me to turn my music down, I told him not to leave his bike in the way of the front door. There was something I liked about his neat capital letters – and the exclamation marks with a circle instead of a dot. I’d look for reasons to write notes – that his cooking made the house smell of garlic, that his door creaked in the early hours. Last year, he moved to a nursing home – I glimpsed him in the hall, in a wheelchair, and we frowned fiercely at each other. 

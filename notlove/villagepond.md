@@ -1,0 +1,2 @@
+Village pond with red triangle
+==============================He was a painter of fussy landscapes, in which the fisherman’s rod always pointed in the direction of the kissing gate which led into the woods beyond the plum tree. Once, after an argument, I painted over all the canvasses I could find, turned them into bold and jagged abstracts. He sold them at an enormous price, and everybody called it his breakthrough.

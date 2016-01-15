@@ -1,0 +1,3 @@
+In the dark
+===========
+Yes – all right – she had spent her daughters’ student loans on lipstick and under floor heating and little bottles of Cointreau – and had tried quite successfully to seduce two of their boyfriends – and had once arrived at parents’ evening wearing a dressing gown – it was a smart dressing gown – but still, she didn’t see why they had to disown her. At this point, her daughters always hung up the phone, so she never could get them to say what she had done so wrong.

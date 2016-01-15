@@ -1,0 +1,2 @@
+All new
+=======She wanted to do something nice for him, since she was leaving. While he was away, she redecorated the house, replaced the drab kitchen table with a solid oak workbench, and hung pictures he would like in place of the dog-eared posters. She left a note, and when he returned to their house, which she had left forever, he traced the glossy corners of the new furniture, searching in vain for a single memory of her.

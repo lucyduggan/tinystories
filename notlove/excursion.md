@@ -1,0 +1,2 @@
+Excursion=========
+She called it her day out. She put a sign on the shop door saying ‘Sorry, I’m out,’ and retreated to the back room, where she spent the day reading old travellers’ diaries, books about deserts and jungles, tales of explorers, and old collections of maps. The next day, behind the counter, she always looked slightly sunburnt, and her eyes were bright with wide, reflected rivers.

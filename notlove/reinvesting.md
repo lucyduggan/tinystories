@@ -1,0 +1,2 @@
+Re-investing
+============He told her to take her time, so she did. She took the time she’d spent with him in cafés, listening to his political views; she took the time she’d wasted on the phone to his mother, the time she’d put into cooking his favourite chops, and the time she’d devoted to straightening his tie, and she spent it all exploring glaciers, trekking in hidden gorges, and soaking self-indulgently in the bath.

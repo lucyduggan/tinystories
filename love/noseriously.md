@@ -1,0 +1,3 @@
+No, seriously
+=============
+When Dean was selected to join the Mars mission, Evelyn’s heart sank. It wasn’t that they’d been going out for long – she didn’t even know if she liked him that much – but her previous boyfriend had emigrated to Ulan Bator, the one before had joined a circus and the first boy she’d brought home to her parents had actually been eaten by a crocodile. She was getting tired of telling people all this, and seeing them snap their mouths closed, reminding themselves not to laugh till later.
