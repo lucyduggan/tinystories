@@ -1,0 +1,2 @@
+Coming out with it
+==================She definitely thought I was a lesbian. It was my fault: when I met her, I was tongue-tied by her hair-cut, her girlfriend, and also the way she made bloody maries and talked about Estonian music. So I only mentioned having a ‘partner’, and confessed my embarrassing crush on Tilda Swinton, and learned the names of seven Estonian bands. When she met my boyfriend, the two of them talked about cocktails and tattoos for half an hour, while I sat shredding a stick of celery, in misery.

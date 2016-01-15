@@ -1,0 +1,3 @@
+Visitors
+========
+She attached her designs to coat-hangers, suspended from the ceiling: her house was crowded with phantoms, the shapes of people dressed in fantastical clothes. She walked cheerfully among them, bringing tea, and they shifted towards her in the breeze, as if to follow. I told her it made me feel that my own body might float up, balloon, become an artwork, but she looked at me as if she’d never heard such rubbish.

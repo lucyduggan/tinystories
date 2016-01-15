@@ -1,0 +1,3 @@
+Unemployed
+==========
+She used to joke that when her Derek retired he became a housewife – but you could see it galled her. There he was, washing the windows on a sunny morning, exclaiming over the dust behind the fridge. ‘The worst part is, he does it all so well,’ she told her grown-up daughter. ‘I only wish he’d go back to sitting on the sofa with his paper, lifting his feet when I go past him with the hoover.’

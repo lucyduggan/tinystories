@@ -1,0 +1,3 @@
+How to
+======
+He left me so many instructions. How to change the tyres, how to bake the rye bread he used to make, how to gut a trout. The notes were scattered around the house. Years later, when I was moving, I rolled up the heavy rug in the hallway and found one which said, ‘How to lift heavy objects,’ but there were no more words, just a sketch of me, younger, bending correctly at the knee to lift a box.

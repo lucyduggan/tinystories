@@ -1,0 +1,2 @@
+Visiting time
+=============He never spoke, but sometimes he sang. When I visited, he’d be sitting by the window of his room, and the nurse would put a cup of tea beside him, which he never drank. Instead of greeting me with the irritable accusations I remembered, building into a stream of quiet abuse which used to end in fury if I didn’t escape, he’d glance at me with puzzled eyes. Then, sometimes, he’d turn slightly to the window and sing, in a rich, deep voice that I’d never heard before.
