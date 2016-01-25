@@ -1,0 +1,2 @@
+Bad heart=========
+The day I told him he was heartless, and began to pack my bags, he escaped into the arms of his lover, where he suffered a heart attack. ‘You see, I do have a heart after all,’ he said, when I visited him at the hospital. But I didn’t stay long.

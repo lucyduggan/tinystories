@@ -1,0 +1,2 @@
+The suitor==========
+Dominic was very traditional. He insisted on going to Helen’s father to ask for her hand in marriage. Imagine his surprise when Helen’s father replied that he had promised her at birth to a Danish prince, and that her trousseau had long been prepared. Dominic rushed home to Helen: ‘Can you believe these outdated traditions?’ he demanded, expecting her to be outraged. But Helen – to his consternation – shrugged. ‘I think a Danish prince sounds rather fun,’ she told him thoughtfully. ‘Don’t you?’

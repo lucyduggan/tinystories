@@ -1,0 +1,3 @@
+Wish you were here
+==================
+I certainly never expected my mother to elope. Obviously I’m happy for her – finding love at her age isn’t easy, and Jeff seems nice, if rather short on brain cells. But the idea that she would be so selfish, depriving me of the chance to attend the wedding as daughter of the bride, is very hard to forgive, and the enthusiastic postcards she sends from New Zealand really add insult to injury. 

@@ -1,0 +1,3 @@
+Downtrodden
+===========
+He had spent the entire evening complaining that women ruled the world nowadays, and that straight white men were a downtrodden minority. Whenever Christina attempted a counterargument, he told her to calm down. So when they reached her flat that night and he tried to kiss her, she swiftly bent his arm back behind his head, before locking him in the bathroom. He bellowed, then cried. ‘Calm down!’ she called out briskly. ‘Don’t get your knickers in a twist!’

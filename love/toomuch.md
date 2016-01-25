@@ -1,0 +1,3 @@
+Too much information
+====================
+‘Just FYI,’ he said that morning, ‘remember to tamp down the coffee grounds slightly in the cafetière.’ She nodded. ‘Just FYI,’ he said as he was leaving for work, ‘the train tickets still need booking for our visit to my parents.’ She nodded. ‘Just FYI,’ he texted her during her lunch hour, ‘Geoff’s in an open relationship, and he says it can totally work.’ She left work early, packed her bags and printed out a photo of the cabin on the Portuguese coast where she planned to start her new life. ‘Just FYI,’ she wrote on the back.

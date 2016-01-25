@@ -1,0 +1,3 @@
+How to be a woman
+=================
+She woke up one day and realised her life was a fake. Some people would have despaired, but not her: she collected together all her diaries, all the clothes she’d bought that didn’t suit her, and all the emails she’d sent that didn’t express her true feelings, and exhibited them in the local art gallery. ‘Everything I’ve done till now as a pretence,’ she told her startled boyfriend, as she stepped into an outfit that was completely different from her old style.

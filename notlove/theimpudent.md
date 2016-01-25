@@ -1,0 +1,3 @@
+The impudent daughter
+=====================
+Her boyfriend is a bad influence: he encourages her to pursue her dreams in New York City, he wears loud shirts, and he almost certainly kisses her on the mouth. I tried to talk some sense into her, but she just smiled at me with a face full of forgiveness and said, ‘You should follow your dreams, too, Mum.’ The cheek of it! Next, she’ll be wanting me to be happy.

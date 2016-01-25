@@ -1,0 +1,3 @@
+Please note
+===========
+We communicated in writing for some years before we met. She wrote the small print for the hair products our company produced, and I corrected unclear wording and checked that all the side effects were included. She rarely made mistakes. When I finally asked her to marry me, she read the forty pages of terms and conditions carefully, then smiled and said, ‘just so long as my statutory rights are not affected.’
