@@ -1,0 +1,3 @@
+Doomed
+======
+She knew she had to write a happy ending, but she couldn’t help it: her characters always died abruptly in the final pages, or one would disappear on a journey to the desert, or they would look at each other sadly before parting ways. Eventually, her agent took to writing the final pages for her. But sometimes, late at night, she would see visions of her unfortunate characters, locked in a never-ending embrace, or forced to smile at each other lovingly for eternity. 

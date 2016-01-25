@@ -1,0 +1,2 @@
+Teenage boredom
+===============There was nothing to do in my hometown, so we used to spend our evenings writing sonnets and learning to paint in the style of the Renaissance masters. It was the most productive time of my life. When I was eighteen, I left for university, where I began playing video games; these days I spend my free time on Facebook. Only when I go home to my parents’ house and see the near-perfect copy of the Mona Lisa on the wall do I think briefly of my lost potential.

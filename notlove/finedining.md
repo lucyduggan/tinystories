@@ -1,0 +1,3 @@
+Fine dining
+===========
+The restaurant was a place of impeccable elegance and quiet panache. The starter was a large plate decorated with a few drops of champagne jus, and garnished with rose petals. The main course was exquisite: served on antique china, it combined a tiny swirl of seaweed foam with a garnish of miniature asparagus fronds. Only Anthea ordered dessert, and it looked divine: fragments of gold leaf, and a few flakes of handmade dark chocolate. We all enjoyed the evening so much – and I did not dare tell anyone that when I arrived home, I ate seven slices of toast with marmite, followed by a tub of chocolate fudge ice cream. 

@@ -1,0 +1,3 @@
+The creditor
+============
+She got rid of a lot of men quickly, using a simple trick. She billed Ernest £200 for a 2 hour conversation in which he ranted about his interfering mother without asking her a single question. She sent Quentin an invoice for £600 for the hours she spent writing Christmas cards to friends and relatives, on which he only signed his name. And she actually went to the small claims court to retrieve lost earnings from Jeremy, after he phoned her incessantly at work to ask her advice about getting a promotion, making stir-fry and persuading his ex-wife to forgive him for cheating on her. 

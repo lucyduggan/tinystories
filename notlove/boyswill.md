@@ -1,0 +1,3 @@
+Boys will be boys
+=================
+That Christmas, Connor’s competitive streak got out of hand. He hurled the turkey to the ground when he didn’t get the best toy in the cracker, trampled on his daughter’s iPhone when she beat him at Ludo, and threw his wife’s wig in the pond when she found the penny in her slice of Christmas pudding. His parents watched him fondly. ‘He’s always had fighting spirit,’ they said.

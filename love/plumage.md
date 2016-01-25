@@ -1,0 +1,3 @@
+Plumage
+=======
+Ever since Beatrice saw the woman with the peacock-shaped brooch at the theatre, she could barely bring herself to leave the house: she was certain that she could never be as intriguing as that woman. Little did she know that she had had a similar effect herself: after seeing Beatrice’s elegant, unadorned grey suit at the theatre, the woman with the peacock-shaped brooch kept returning every night in the hope of getting to know her.
