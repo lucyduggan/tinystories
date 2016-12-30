@@ -1,0 +1,3 @@
+In common
+=========
+We both fell in love with Melody at once. I could see it in Jim’s face: he kept staring at the many rings on her fingers and at the way she swept her hair over her shoulder. She lodged in our spare room for three months, and spent hours telling me about her lovely boyfriend: I knew it was hopeless. After she moved out, Jim and I would lie on our bed for hours, talking about how funny and sweet she was. It was the first interest we’d shared in years.

@@ -1,0 +1,3 @@
+The coming insurrection (is still coming, maybe)
+================================================
+Night after night, sitting at Leila’s sticky kitchen table, we planned the revolution. By the time we had finished planning it, we had all become quite busy with other things – Leila had a new girlfriend who eyed us snootily through her tinted glasses, Kay was looking after her sister’s triplets, and I had a brilliant new job in the city which I pretended was just a kind of secretarial post. So we postponed putting our revolutionary plans into practice. I still have all our notes, though, if you want to take a look.

@@ -1,0 +1,3 @@
+Far from the tree
+=================
+The apple tree which grew on the spot where Bill was buried always produced the most fruit, and the sweetest. But sometimes, when I placed on of those shiny red apples in the fruit bowl in the dining room, I seemed to see his apoplectic face in it, his eyes popping with rage, gasping for breath as he brandished the secateurs. Then I would bite into the sweet, crunchy flesh, marvelling at how such a terrible father could bear such exceptional fruit.

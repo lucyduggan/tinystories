@@ -1,0 +1,3 @@
+Long lost drama
+===============
+I had always assumed my long lost brother would reappear at some point, demanding money and making himself at home on the couch, drinking gallons of hot chocolate topped with marshmallows and spiked with rum. When, instead, I received a polite Christmas card, signed by my brother and his new wife, I found I was disappointed. I sent a Christmas card in return, of course, and we exchanged boring pleasantries for years, but I never forgave him for his undramatic return.

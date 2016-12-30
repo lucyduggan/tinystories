@@ -1,0 +1,3 @@
+The other woman
+===============
+While Dave was once again meeting his favourite secretary for dinner while pretending to work late at the bank, Amelia plucked up her courage and told her book club that she had fallen in love with a woman. They were all fascinated, and interrogated her whilst stuffing olives and pickled gherkins into their wide mouths. Later that week, though, when Amelia left her marriage to live with Dave’s favourite secretary, they all said it was shocking, ditching her husband for a much younger woman. 

@@ -1,0 +1,3 @@
+Norfolk summer, years later
+===========================
+I passed him every day on my way to the office, but I don’t think he recognised me. One summer in Norfolk we were officially boyfriend and girlfriend, whatever that means when you’re twelve. He still had the same uncertain blue eyes. I never mentioned it, though, I just bought the magazines he sold and gave him some extra spare change, and he said, ‘Bless you, my dear’, even though I don’t think he’d ever been religious. Later, after I changed jobs, I thought I should have said more to him, but when I went back that way, he wasn’t there.

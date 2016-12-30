@@ -1,0 +1,3 @@
+Model mother
+============
+My friends used to wish they had a mother like mine. When they came over, she lit campfires in the garden, or we would dress up in her ball dresses and put on shows. When she left for California with nothing but £200 of my birthday money, my sister’s violin and her old friend Sarah Stevens, my friends were sorry for me. But I could see they wished their mothers would do the same, instead of cooking healthy meals and rushing home from work to supervise their children’s homework.

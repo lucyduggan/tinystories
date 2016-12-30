@@ -1,0 +1,3 @@
+Precious lessons
+================
+I usually avoid all kinds of school reunion, but this invitation intrigued me. Belle, a girl I’d always eyed with respect as she slouched around the lunch hall in a pair of forbidden platform trainers, was inviting me to drink tea and catch up. Over a pot of lapsang souchong, I discovered that she had become a jewel thief, wanted by police in several countries, though all of them thought they were chasing a stocky Italian with bad breath, because as Belle said, ‘If there’s one thing I learned at school, it’s how to disguise myself.’ I didn’t hesitate: I offered my expertise as a hacker, and we began to plan our next job.

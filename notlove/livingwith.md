@@ -1,0 +1,3 @@
+Living with Bluebeard
+=====================
+I did find it suspicious that he had such a long list of requirements: his new flatmate must be female, with long, curly hair, and what he called a ‘feminine name’. I thought he might decide against me, since I had a job and a degree in literature, both of which he clearly viewed as disadvantages. It was only when we had been living together for several months that I opened the door of what he called the junk room and found his six previous flatmates, each of whom had been expertly embalmed.

@@ -1,0 +1,3 @@
+The beauty trick
+================
+I knew how much she wanted to change her appearance. She'd been reading about ultherapy, which looked terrifying to me. So I took her to my friend’s salon as a mother’s day gift. They gave her a gentle face massage, but told her it was a new kind of lifting procedure, and mentioned ‘collagen’ and ‘regeneration’. She said she felt a little bruising afterwards. Everyone told her how gorgeous she looked. She put the ‘before’ and ‘after’ pictures on the wall – in the first, she seems weary and afraid, and in the second, six months later, she’s glowing.

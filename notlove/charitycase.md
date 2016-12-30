@@ -1,0 +1,3 @@
+Charity case
+============
+She would come round bringing old dolls, clothes that were too small for our kids, cheap jewellery that her daughter didn’t want anymore. My husband complained that I shouldn’t accept it: ‘She thinks we’re charity cases,’ he said. But each time she came round, I’d invite her into the kitchen and she’d arrange herself daintily in her expensive skirt suit, and I’d pour the tea, and we’d chat. Anyone could see how desperate she was for a chat; I couldn’t turn her away.

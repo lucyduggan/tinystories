@@ -1,0 +1,3 @@
+Special delivery
+================
+We called her Rapunzel. She lived in the room next to mine, and never went out. I wasn’t sure what she ate, or how she got those cigarettes she smoked, sitting on the windowsill. Then one night I saw her lowering her long plait from the window, and a van drew up from one of those online delivery companies. The delivery woman tied my flatmate’s plait securely to the loops of a large shopping bag, and looked up longingly at the window as Rapunzel hoisted it up.
