@@ -1,0 +1,3 @@
+Definition: A strong feeling of affection
+=========================================
+He had been dead for many years when I realised that his love letters to me were composed using example sentences from the dictionary. Each one was a surreal masterpiece. I had them published, and they won a literary prize. Still, I couldn’t shake the sense of coldness: that each of his words came from those thin, dry pages, and not straight from the heart.

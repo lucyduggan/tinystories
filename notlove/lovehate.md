@@ -1,0 +1,2 @@
+Love/hate
+=========She never let a word go unchallenged. Every time I wrote ‘in fact’ or ‘fundamentally’, she crossed it out, and if I wrote ‘this raises questions’, she asked, ‘Which questions exactly?’ Her objections and question marks rained down on my essays from a height. Once, when I knew her better, I asked her if she loved words. She frowned. ‘I wouldn’t put it quite like that,’ she said. 

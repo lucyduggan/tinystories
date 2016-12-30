@@ -1,0 +1,3 @@
+The last housemate
+==================
+We lived together for two years without seeing each other. She never answered when I knocked on her door, and always waited till I left for work before she came downstairs and fried eggs and bacon in a pan she never washed very thoroughly. Sometimes she emailed me to say that my mother had called, or to ask me where the bottle opener was. One day I took a day off work and pretended to leave, then sneaked back into the house in the hope of seeing her. The eggs were on the sideboard, beside the greasy pan, but my housemate was nowhere to be seen, and nor did I ever hear from her again, except for the occasional scratching in the attic, which was probably mice.

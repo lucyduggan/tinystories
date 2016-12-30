@@ -1,0 +1,3 @@
+The tiger who came to work
+==========================
+Eli had been living with me for about two years when he began to follow me. I would say goodbye to him on the doorstep, and still he would prowl after me to the bus stop and silently step onto the bus beside me, without a glance at the driver, with whom he seemed to have an understanding. When I arrived at the office, he would step daintily into the lift after me and begin to wash himself fastidiously. My colleagues all glared at me, but none of them dared to complain.

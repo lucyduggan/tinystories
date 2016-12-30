@@ -1,0 +1,3 @@
+Face with Tears of Joy
+======================
+We had not spoken for ten years when my mother began texting me. At first I thought it was a mistake: all she sent was a smiley face emoji. I ignored it. Later the same day, she sent a longer message: another smiley face, followed by a tropical fish and a lollipop. I hadn’t even realised there was a lollipop emoji. Nowadays, we continue a conversation like this: I send her a lemon, a ghost and a balloon, and she sends back a crystal ball and a face with tears of joy. I don’t think either of us want to meet: we’ve finally found the right way to communicate.

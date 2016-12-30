@@ -1,0 +1,2 @@
+Dark times for poetry
+=====================She was a woman of few words, but she used to talk in her sleep, telling whole stories, declaiming poetry, and bursting out into dramatic speeches. Sometimes we’d spend a day together without her saying more than ‘yes’ and ‘not yet’, and then I’d lie awake, listening to the flood of words from her sleeping mouth.

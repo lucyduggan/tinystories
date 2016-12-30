@@ -1,0 +1,3 @@
+Real life family shocker
+========================
+Martin never stopped reading the ‘real life stories’ in weekly magazines. He was supremely disappointed that he hadn’t been born with two hearts, survived any near death experiences, discovered that his girlfriend was a stripper, or met his long-lost twin. When Martin’s father faked his own death and was imprisoned for insurance fraud, everyone in the family was horrified, except for Martin, who whistled happily to himself as he set off to visit his dad in prison.

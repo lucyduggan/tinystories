@@ -1,0 +1,2 @@
+Verdict
+=======I was surprised to see her, years later, hosting a baking show on television. She was a strict judge: there were closeups of her fork crushing a lemon meringue pie to test the texture. I hadn’t forgotten the sharp look in her eye as she tasted a sweet morsel, frowning as if she were eating bitter herbs. She had looked at me like that when we were at school together, and I brought in a homemade treacle tart for her, hoping to win her favour. She only took one bite before she declared it sickly.
