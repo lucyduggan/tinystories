@@ -1,3 +1,0 @@
-The witch and the bestseller
-============================
-She lived between Eagleton and Hawkworthy, in a village called Owl. The place seemed to be cursed: the first time he visited, he scratched his Mazda on a thorn bush which sprouted from the middle of the lane, and the second time, he mislaid his Barbour jacket. She joked that it was kidnapped by wolves. He never returned, but wrote a successful novel about what might have happened if he hadn’t escaped her clutches.
