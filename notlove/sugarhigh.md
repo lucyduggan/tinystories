@@ -1,2 +1,0 @@
-Sugar high
-==========Sugar made her do amazing things. When she was three, she solved a cryptic crossword puzzle after eating three lollypops, and when she was twenty-three, she polished off a chocolate mousse before leaning over her father’s computer and pointing out that physicists had overlooked one important aspect of nuclear fusion. Most of the time, though, she limited her sugar intake, took care of her teeth and watched reruns of comedies on TV.
