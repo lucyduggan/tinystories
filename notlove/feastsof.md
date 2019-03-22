@@ -1,2 +1,0 @@
-Feasts of forgetting
-====================We organised national days of forgetting: on March the 3rd, we forgot about the War of Attrition, on May the 18th, we forgot about our National Poet, and on September the 9th, we forgot about the Partisans. You’d think it would be difficult, but with a little practice, you can clear all those memories from your mind, and it’s surprising what unheard-of things you then begin to imagine.
