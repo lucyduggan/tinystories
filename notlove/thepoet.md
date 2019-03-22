@@ -1,2 +1,0 @@
-The poet and the pick-up artist
-===============================He asked her what a beautiful girl like her was doing writing poetry, and she said, ‘It’s so I can tell you to be gone, foul serpent of the darkling depths, as well as just asking you to leave me alone.’ But half an hour later, after he had commented on her ‘unusually deep voice, for a woman’ and asked why she had chosen to wear heels when she was already ‘so gangly’, she stabbed him, concluding that whilst the pen may be mightier than the sword, the sword is sometimes faster.
