@@ -1,2 +1,0 @@
-Housemates
-==========We didn’t even spend much time together, but we seemed to enter the same zone: when she did sit-ups in the living room, I felt my stomach muscles ache, and when she went out for a big meal, I’d feel stuffed, even if I stayed at home drinking tea. I never realised that this went both ways until I spent a drunken night with a mutual friend of ours, and felt rather strange a few weeks later. I came downstairs, wondering whether I ought to buy a pregnancy test, and found her in the hallway, staring at her belly in absolute bewilderment.
