@@ -1,2 +1,0 @@
-Fonder
-======The more time he spent on business trips, setting off in his too-tight pale pink shirt and clashing tie, the more beautifully she dreamt. She always dreamt of him, of romantic boat trips or lazy hours on the beach, better than life ever was. She began to find reasons to send him away, or to plan her own trips, alone. She only needed to see his face once a year to dream of him every night.
